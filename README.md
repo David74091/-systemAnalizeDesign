@@ -7,7 +7,7 @@
 
 # 😘 ⚡
 
-![nkust](783423456.png "nkust")
+![nkust](NKUST.png "nkust")
 
 # **粗體**
 # *斜體*
