@@ -1,5 +1,7 @@
-#甘特圖:
-![nkust](783423456.png "nkust")
+# 甘特圖:
+![Gantt](Gantt.JPG "Gantt")
 
-#pert圖:
-![nkust](783423456.png "nkust")
+---
+
+# pert圖:
+![pert](pert.JPG "pert")
