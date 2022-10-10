@@ -22,7 +22,7 @@ gantt
     title 甘特圖
     dateFormat  YYYY-MM-DD
     section 所有任務
-    研擬計畫: a1, 2022-09-31, 5d
+    研擬計畫: a1, 2022-09-31, 10d
     任務分配: a2,after a1, 5d
     取得軟體: a3, after a2, 5d
     安裝軟體: a4, after a3, 5d
@@ -34,7 +34,7 @@ gantt
     使用者訓練: a10, after a7, 3d
     使用者測試: a11, after a10, 10d 
     section 彭晨燿
-    研擬計畫: a1, 2022-09-31, 5d
+    研擬計畫: a1, 2022-09-31, 10d
     任務分配: a2,after a1, 5d
     取得軟體: a3, after a2, 5d
     安裝軟體: a4, after a3, 5d
@@ -45,21 +45,21 @@ gantt
     系統測試: a9, after a8, 5d
     使用者訓練: a10, after a7, 3d
     section 劉芷林
-    研擬計畫: a1, 2022-09-31, 5d
+    研擬計畫: a1, 2022-09-31, 10d
     取得軟體: a3, after a2, 5d
     安裝軟體: a4, after a3, 5d
     技術學習: a5, after a4, 30d
     程式開發: a6, after a5, 80d
     使用者測試: a11, after a10, 10d 
     section 曹芷瑄
-    研擬計畫: a1, 2022-09-31, 5d
+    研擬計畫: a1, 2022-09-31, 10d
     取得軟體: a3, after a2, 5d
     安裝軟體: a4, after a3, 5d
     技術學習: a5, after a4, 30d
     程式開發: a6, after a5, 80d
     使用者測試: a11, after a10, 10d 
     section 陳昔恩
-    研擬計畫: a1, 2022-09-31, 5d
+    研擬計畫: a1, 2022-09-31, 10d
     取得軟體: a3, after a2, 5d
     安裝軟體: a4, after a3, 5d
     技術學習: a5, after a4, 30d
