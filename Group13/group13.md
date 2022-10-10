@@ -1,8 +1,8 @@
 
 | 職位 | 姓名 | 學號 | 任務 |
 | :---: | :---: | :---: | :---: |
-| 組長 | [彭晨燿](https://github.com/David74091/2022-3a/blob/main/README.md) | C109190145 | - |
-| 組員 | [劉芷林](https://github.com/liuzl0121/2022-3A/blob/main/README.md) | C109190146 | - |
-| 組員 | [曹芷瑄](https://github.com/yummikawaii1001/2022-3A/blob/main/README1.md) | C109193145 | - |
-| 組員 | [陳惜恩](https://github.com/ianchen123/2022-3a/blob/main/README.md)| C109118183 | - |
+| 組長 | [彭晨燿](https://github.com/David74091/2022-3a/blob/main/README.md) | C109190145 | 研究計畫、任務分配、技術學習、取得軟體、安裝軟體、學習軟體、程式開發、程式測試、系統測試 |
+| 組員 | [劉芷林](https://github.com/liuzl0121/2022-3A/blob/main/README.md) | C109190146 | 研究計畫、技術學習、取得軟體、安裝軟體、學習軟體、使用者訓練、使用者測試 |
+| 組員 | [曹芷瑄](https://github.com/yummikawaii1001/2022-3A/blob/main/README1.md) | C109193145 | 研究計畫、技術學習、取得軟體、安裝軟體、學習軟體、使用者訓練、使用者測試 |
+| 組員 | [陳惜恩](https://github.com/ianchen123/2022-3a/blob/main/README.md)| C109118183 | 研究計畫、技術學習、取得軟體、安裝軟體、學習軟體、程式開發、程式測試、系統測試 |
 
